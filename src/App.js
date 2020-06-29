@@ -8,6 +8,7 @@ function App() {
       <Navbar />
       <h1>Change Made</h1>
       <p>this is a change I want to keep</p>
+      <p>this is a change I want to keep dev2</p>
     </div>
   );
 }
