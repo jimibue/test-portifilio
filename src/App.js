@@ -9,7 +9,7 @@ function App() {
       <h1>Change Made</h1>
       <p>this is a change I want to keep</p>
       <p>this is a change that I want to keep made by Dev1</p>
-      <p>this is a change that I dont want to keep made by Dev1</p>
+      <p>this is a change I want to keep dev2</p>
     </div>
   );
 }
