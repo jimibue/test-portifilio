@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
       <h1>Change Made</h1>
+      <p>this is a change I want to keep</p>
     </div>
   );
 }
